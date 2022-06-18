@@ -12,7 +12,7 @@ const saudacao = () =>
 }
 
 
-//comentário
+//comentário mais bonito!
 helloWorld(); 
 
 function minhaFuncao() 
@@ -25,6 +25,10 @@ function minhaFuncao()
     console.log("Teste");
 }
 
+function minhaFuncaoDois() 
+{
+    console.log('valor de função');
+}
 
 minhaFuncao();
 console.log('A saudação no momento é: ' + saudacao()); 
