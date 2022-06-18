@@ -27,7 +27,7 @@ function minhaFuncao()
 
 function minhaFuncaoDois() 
 {
-    console.log('valor de função');
+    console.log('valor de função teste');
 }
 
 minhaFuncao();
