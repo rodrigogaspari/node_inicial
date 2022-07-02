@@ -1,5 +1,6 @@
 function helloWorld()
 {
+    //FIXME fazer isso aqui funcionar
     console.log('Hello World');     
 }
 
@@ -17,11 +18,13 @@ helloWorld();
 
 function minhaFuncao() 
 {
+    //TODO Implementar aqui
     console.log('Hello World');
 }
 
 function minhaFuncao() 
 {
+    //TODO implementar aqui
     console.log("Teste");
 }
 
